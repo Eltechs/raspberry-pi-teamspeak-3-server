@@ -8,7 +8,7 @@ wget
 
 2. Change permition to execute
 ```bash
-chmod x+a ./raspberrypi-ts3.sh
+chmod a+x ./raspberrypi-ts3.sh
 ```
 
 3. Run the script
