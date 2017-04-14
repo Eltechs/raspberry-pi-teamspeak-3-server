@@ -1,5 +1,5 @@
 # Installation and run instruction for TeamSpeak 3 Server on Raspberry Pi
-This script allows to install TeamSpeak 3 Server on Raspberry Pi.
+This script allows to install TeamSpeak 3 Server on Raspberry Pi. 
 
 1. Download the script `raspberrypi-ts3.sh`
 ```bash
